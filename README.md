@@ -1,2 +1,4 @@
 # TestRepo
-For testing purposing
+For testing purposes
+
+and fun :)
